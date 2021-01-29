@@ -1,26 +1,34 @@
 # Student-community-website
 JavaScript, Firebase, HTML, CSS. It is a social profile website that includes authentication, profiles, viewing trending posts, adding posts, uploading profile pictures, liking posts and adding comments on posts. User can edit and delete posts created by them.
 
-Sign Up
+# Sign Up
+
 ![](images/1.png)
 
-Login
+# Login
+
 ![](images/2.png)
 
-View Trending Posts
+# View Trending Posts
+
 ![](images/3.png)
 
-Like Posts
+# Like Posts
+
 ![](images/4.png)
 
-Edit Post
+# Edit Post
+
 ![](images/5.png)
 
-Add Comments
+# Add Comments
+
 ![](images/6.png)
 
-Add a new Post
+# Add a new Post
+
 ![](images/7.png)
 
-Add/Change your Profile Picture and View all your Posts
+# Add/Change your Profile Picture and View all your Posts
+
 ![](images/8.png)
